@@ -1,0 +1,12 @@
+# 运行时产物：跟着 exe 走，不进仓库
+logs/
+state.ini
+NetRepair-backup.ini
+NetRepair-hosts-*.bak
+dist/
+
+# 系统与编辑器杂项
+Thumbs.db
+Desktop.ini
+.vs/
+*.user
